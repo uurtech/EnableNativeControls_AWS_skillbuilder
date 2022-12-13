@@ -2,7 +2,7 @@
 
 ## Installation
 
-Since this is an open source chrome extension, I am not going to upload it to the marketplace, therefore you can be sure you are using this exact version of the code
+Since this is an open source chrome extension, I am not going to upload it to the marketplace, therefore you can be sure you are using this exact version of this code
 
 
 ### Steps
