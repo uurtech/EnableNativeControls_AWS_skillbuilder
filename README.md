@@ -12,8 +12,8 @@ Clone or Download this repo
 Navigate to 
 ```chrome://extensions```
 
-Enable *Developer mode* ( up right corner ) 
+Enable **Developer mode** ( up right corner ) 
 
-and click *"Load Unpacked"* select downloaded project
+and click **"Load Unpacked"** select downloaded project
 
-*It will be running only when you click extension's icon*
+**It will be running only when you click extension's icon**
