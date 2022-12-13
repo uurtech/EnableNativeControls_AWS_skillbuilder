@@ -8,7 +8,7 @@
   },
   "manifest_version": 3,
   "action": {
-    "default_title": "Video tags are being updated"
+    "default_title": "Video tags will be updated"
   },
   "content_scripts": [
     {
