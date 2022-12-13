@@ -12,7 +12,7 @@ Clone or Download this repo
 Navigate to 
 ```chrome://extensions```
 
-Enable **Developer mode** ( up right corner ) 
+Enable **Developer mode** ( top right, corner ) 
 
 and click **"Load Unpacked"** select downloaded project
 
