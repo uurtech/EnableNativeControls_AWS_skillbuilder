@@ -1,6 +1,6 @@
 {
-  "name": "Fresh Chrome Extension",
-  "description": "Fully functional, useful bare minimum Google Chrome extension boilerplate [Manifest V3].",
+  "name": "Enable Native Controls",
+  "description": "This extension will remove manual controls for the video html tag",
   "homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
   "version": "2.0.0",
   "icons":{
@@ -8,7 +8,7 @@
   },
   "manifest_version": 3,
   "action": {
-    "default_title": "execute.js will run (watch the Chrome DevTools' console)"
+    "default_title": "Video tags are being updated"
   },
   "content_scripts": [
     {
