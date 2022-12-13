@@ -1,4 +1,4 @@
-# AWS Skillbuilder Enable Native Player Controls
+# Enable Native Player Controls for AWS Skillbuilder
 
 ## Installation
 
