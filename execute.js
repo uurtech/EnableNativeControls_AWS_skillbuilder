@@ -12,6 +12,9 @@
     videos.forEach((e) => e.setAttribute("controls", "controls"))
     let video_bars = inner_document.querySelectorAll(".vjs-control-bar")
     video_bars.forEach((e) => e.remove())
+
+    let video_play_btn = inner_document.querySelectorAll(".vjs-big-play-button")
+    video_play_btn.forEach((e) => e.remove());
   })
 
 })();
